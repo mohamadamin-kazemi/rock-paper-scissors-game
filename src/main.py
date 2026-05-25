@@ -1,6 +1,6 @@
 """
 Author: Mohamadamin Kazemi
-Date: 2024-06-01
+Date: 2024-06-24
 Description: A simple text-based Rock, Paper, Scissors game implemented in Python.
 """
 
